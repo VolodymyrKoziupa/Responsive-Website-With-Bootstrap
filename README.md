@@ -1,6 +1,6 @@
 # Project Title
 
-Responsive Websites With Bootstrap
+Responsive Website With Bootstrap
 
 ## Contact
 
